@@ -1,0 +1,121 @@
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\APIPrueba.exe
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\APIPrueba.deps.json
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\APIPrueba.runtimeconfig.json
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\APIPrueba.runtimeconfig.dev.json
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\APIPrueba.dll
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\APIPrueba.pdb
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\obj\Debug\netcoreapp3.1\APIPrueba.AssemblyInfoInputs.cache
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\obj\Debug\netcoreapp3.1\APIPrueba.AssemblyInfo.cs
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\obj\Debug\netcoreapp3.1\APIPrueba.csproj.CoreCompileInputs.cache
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\obj\Debug\netcoreapp3.1\APIPrueba.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\obj\Debug\netcoreapp3.1\staticwebassets\APIPrueba.StaticWebAssets.Manifest.cache
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\obj\Debug\netcoreapp3.1\staticwebassets\APIPrueba.StaticWebAssets.xml
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\obj\Debug\netcoreapp3.1\scopedcss\bundle\APIPrueba.styles.css
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\obj\Debug\netcoreapp3.1\APIPrueba.RazorTargetAssemblyInfo.cache
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\obj\Debug\netcoreapp3.1\APIPrueba.dll
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\obj\Debug\netcoreapp3.1\APIPrueba.pdb
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\obj\Debug\netcoreapp3.1\APIPrueba.genruntimeconfig.cache
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JVGG\source\repos\APIPrueba\APIPrueba\obj\Debug\netcoreapp3.1\APIPrueba.csproj.CopyComplete
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\APIPrueba.exe
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\APIPrueba.deps.json
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\APIPrueba.runtimeconfig.json
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\APIPrueba.runtimeconfig.dev.json
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\APIPrueba.dll
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\APIPrueba.pdb
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\obj\Debug\netcoreapp3.1\APIPrueba.csproj.AssemblyReference.cache
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\obj\Debug\netcoreapp3.1\APIPrueba.AssemblyInfoInputs.cache
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\obj\Debug\netcoreapp3.1\APIPrueba.AssemblyInfo.cs
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\obj\Debug\netcoreapp3.1\APIPrueba.csproj.CoreCompileInputs.cache
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\obj\Debug\netcoreapp3.1\APIPrueba.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\obj\Debug\netcoreapp3.1\staticwebassets\APIPrueba.StaticWebAssets.Manifest.cache
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\obj\Debug\netcoreapp3.1\staticwebassets\APIPrueba.StaticWebAssets.xml
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\obj\Debug\netcoreapp3.1\scopedcss\bundle\APIPrueba.styles.css
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\obj\Debug\netcoreapp3.1\APIPrueba.RazorTargetAssemblyInfo.cache
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\obj\Debug\netcoreapp3.1\APIPrueba.csproj.CopyComplete
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\obj\Debug\netcoreapp3.1\APIPrueba.dll
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\obj\Debug\netcoreapp3.1\APIPrueba.pdb
+C:\Users\JVGG\Desktop\Prueba Angular\APIPrueba\APIPrueba\obj\Debug\netcoreapp3.1\APIPrueba.genruntimeconfig.cache

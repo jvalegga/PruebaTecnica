@@ -1,0 +1,76 @@
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 offset-lg-2">
+            <div class="card">
+                <div class="card-body text-center">
+                    <h3 class="titulo tex">EMPLEADOS</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row mt-4">
+        <div class="col-lg-5">
+            <div class="card">
+                <div class="card-body text-center">
+                    <h5 class="titulo">{{ accion | uppercase }} EMPLEADO</h5>
+                    <form [formGroup]="form" (ngSubmit)="guardarEmpleado()">
+                        <div class="input-group input-group-lg mb-3">
+                            <span class="input-group-text" >
+                                <i class="far fa-id-card"
+                                [class.red-icon]="this.form.get('id_Empleado')?.invalid && this.form.get('id_Empleado')?.touched"></i>
+                            </span>
+                            <input formControlName="id_Empleado" maxlength="10" type="text" class="form-control" placeholder="CC">
+                        </div>
+                        <div class="input-group input-group-lg mb-3">
+                            <span class="input-group-text ">
+                                <i class="far fa-user"></i>
+                            </span>
+                            <input formControlName="nom_Empleado" type="text" class="form-control" placeholder="Nombre">
+                        </div>
+                        <div class="input-group input-group-lg mb-3">
+                            <span class="input-group-text ">
+                                <i class="fas fa-search-location"></i>
+                            </span>
+                            <input formControlName="direccion" type="text" class="form-control" placeholder="Dirección">
+                        </div>
+                        <div class="input-group input-group-lg mb-3">
+                            <span class="input-group-text ">
+                                <i class="far fa-building"
+                                [class.red-icon]="this.form.get('id_Entidad')?.invalid && this.form.get('id_Entidad')?.touched"></i>
+                            </span>
+                            <input formControlName="id_Entidad" type="text" class="form-control" placeholder="Nit Empresa">
+                        </div>
+                        <div class="d-grid gap-2">
+                            <button [disabled]="this.form.invalid" type="submit" class="btn btn-primary btn-lg"> <i class="far fa-save"></i>&nbsp; Aceptar</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-7">
+            <div class="card">
+                <div class="card-body text-center">
+                    <h5 class="titulo">LISTAR EMPLEADOS</h5>
+                    <table class="table">
+                        <tr mat-header-row >
+                            <td>Id</td>
+                            <td>Nombre</td>
+                            <td>Direccion</td>
+                            <td>Nit Entidad</td>
+                            <td>Editar</td>
+                            <td>Eliminar</td>
+                        </tr>  
+                        <tr *ngFor="let empleado of ListaEmpleados">
+                            <td>{{ empleado.id_Empleado}}</td>
+                            <td>{{ empleado.nom_Empleado}}</td>
+                            <td>{{ empleado.direccion}}</td>
+                            <td>{{ empleado.id_Entidad}}</td>
+                            <td><i (click)="editarEmpleado(empleado)" class="far fa-edit text-info"></i></td>
+                            <td><i (click)="eliminarEmpleado(empleado.id_Empleado)" class="far fa-trash-alt text-danger"></i></td>
+                        </tr>                      
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

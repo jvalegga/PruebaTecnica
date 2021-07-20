@@ -1,0 +1,67 @@
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-lg-8 offset-lg-2">
+            <div class="card">
+                <div class="card-body text-center">
+                    <h3 class="titulo tex">ENTIDADES</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row mt-4">
+        <div class="col-lg-6">
+            <div class="card">
+                <div class="card-body text-center">
+                    <h5 class="titulo">{{ accion | uppercase }} ENTIDAD</h5>
+                    <form [formGroup]="form" (ngSubmit)="guardarEntidad()">
+                        <div class="input-group input-group-lg mb-3">
+                            <span class="input-group-text">
+                                <i class="far fa-id-card"                                
+                                [class.red-icon]="this.form.get('id_Entidad')?.invalid && this.form.get('id_Entidad')?.touched"></i>
+                            </span>
+                            <input formControlName="id_Entidad" maxlength="10" type="text" class="form-control" placeholder="NIT">
+                        </div>
+                        <div class="input-group input-group-lg mb-3">
+                            <span class="input-group-text ">
+                                <i class="far fa-building"></i>
+                            </span>
+                            <input formControlName="nom_Entidad" type="text" class="form-control" placeholder="Nombre">
+                        </div>
+                        <div class="input-group input-group-lg mb-3">
+                            <span class="input-group-text ">
+                                <i class="fas fa-search-location"></i>
+                            </span>
+                            <input formControlName="direccion" type="text" class="form-control" placeholder="Dirección">
+                        </div>
+                        <div class="d-grid gap-2">
+                            <button [disabled]="this.form.invalid" type="submit" class="btn btn-primary btn-lg"> <i class="far fa-save"></i>&nbsp; Aceptar</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-6">
+            <div class="card">
+                <div class="card-body text-center">
+                    <h5 class="titulo">LISTAR ENTIDADES</h5>
+                    <table class="table">
+                        <tr mat-header-row >
+                            <td>Id</td>
+                            <td>Nombre</td>
+                            <td>Direccion</td>
+                            <td>Editar</td>
+                            <td>Eliminar</td>
+                        </tr>
+                        <tr *ngFor="let entidad of ListaEntidades">
+                            <td>{{ entidad.id_Entidad}}</td>
+                            <td>{{ entidad.nom_Entidad}}</td>
+                            <td>{{ entidad.direccion}}</td>
+                            <td><i (click)="editarEntidad(entidad)" class="far fa-edit text-info"></i></td>
+                            <td><i (click)="eliminarEntidad(entidad.id_Entidad)" class="far fa-trash-alt text-danger"></i></td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
